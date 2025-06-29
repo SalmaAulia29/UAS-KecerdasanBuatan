@@ -1,12 +1,12 @@
 # Prediksi Suhu Udara Harian Menggunakan Random Forest Regressor
 
-## 👩‍💻 Nama Kelompok
+##  Nama Kelompok
 - Salma Aulia Nisa – 2306143  
 - Vito Gunawan – 2306149
 
 ---
 
-## 📌 Penjelasan Langkah Pengerjaan
+##  Penjelasan Langkah Pengerjaan
 
 ### 1. Business Understanding
 - **Permasalahan:** Prediksi suhu penting dalam sektor pertanian, energi, dan transportasi. Model tradisional membutuhkan komputasi tinggi sehingga diperlukan alternatif berbasis machine learning.  
